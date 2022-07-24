@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kim Naughty's Blog"
+title                    : "zzangguu's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -104,8 +104,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kim Naughty"
-  avatar           : "/assets/bio-photo.png"
+  name             : "zzangguu"
+  avatar           : 
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
