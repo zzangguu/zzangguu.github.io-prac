@@ -1,10 +1,13 @@
 ---
 layout: single
-title:  "💻 Kim Naughty's Blog "
+title:  "💻  zzangguu's Blog "
 ---
 
 ## 🌱 First Posting
 
-Hello World, this is **Kim Naughty's Blog** first posting :)
+Hello World, this is **zzangguu's Blog** first posting :)
 
-**Kim Naughty의 블로그**에 오신 걸 환영합니다!
+**zzangguu의 블로그**에 오신 걸 환영합니다!
+
+---
+## 연습용 블로그
